@@ -1,0 +1,57 @@
+[
+    {
+        "type": "FootballTeam",
+        "name": "Динамо Київ",
+        "results": [
+            2,
+            1,
+            3,
+            0
+        ],
+        "country": "Україна",
+        "league": "УПЛ",
+        "wins": 15,
+        "coach": "Шовковський Олександр"
+    },
+    {
+        "type": "BasketballTeam",
+        "name": "Лейкерс",
+        "results": [
+            102,
+            98,
+            110
+        ],
+        "country": "США",
+        "league": "NBA",
+        "wins": 25,
+        "coach": "Дарвін Хем"
+    },
+    {
+        "type": "Team",
+        "name": "Барселона",
+        "results": [
+            3,
+            4,
+            2,
+            1
+        ],
+        "country": "Іспанія",
+        "league": "Ла Ліга",
+        "wins": 20,
+        "coach": "Хансі Флік"
+    },
+    {
+        "type": "Team",
+        "name": "Ліверпуль",
+        "results": [
+            2,
+            4,
+            3,
+            1
+        ],
+        "country": "Англія",
+        "league": "АПЛ",
+        "wins": 17,
+        "coach": "Арне Слот"
+    }
+]
