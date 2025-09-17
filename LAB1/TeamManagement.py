@@ -119,7 +119,7 @@ def statistics():
 
 def menu():
     while True:
-        print("==== Меню ====")
+        print("Меню")
         print("1. Додати команду")
         print("2. Показати всі команди")
         print("3. Пошук команди за ID")
